@@ -8,9 +8,6 @@
 💻 &nbsp;Atualmente estou procurando uma colocação como DEV, mas tambem tenho uma agência digital, onde forneço meus serviços para alguns clientes.\
 🎓&nbsp;Estou graduando em Ciências da Computação e tenho diversos cursos na área de tecnologia.\
 🌱 &nbsp;Estou aperfeiçondo bastante em React e busco também estudar o backend.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
 
 
