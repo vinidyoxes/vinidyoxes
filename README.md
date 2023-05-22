@@ -30,7 +30,7 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; Alguns links:
 
 
 <a href="https://www.linkedin.com/in/viniciushenrique-silva//"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;
