@@ -33,6 +33,6 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/viniciushenrique-silva//"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;
-<a href="https://www.behance.net/vinidyoxes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />&nbsp;
-<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/viniciushenrique-silva//"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;
+<a href="https://www.behance.net/vinidyoxes"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />&nbsp;
+<a href="https://instagram.com/abhi_1507"><img height="25px" src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
