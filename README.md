@@ -35,4 +35,4 @@
 
 <a href="https://www.linkedin.com/in/viniciushenrique-silva//"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;
 <a href="https://www.behance.net/vinidyoxes"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />&nbsp;
-<a href="https://instagram.com/abhi_1507"><img height="25px" src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://furyagency.sytes.net"><img height="25px" src="https://png.pngtree.com/element_our/png/20181130/web-search-vector-icon-png_253149.jpg"/></a> &nbsp;
