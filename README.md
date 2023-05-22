@@ -2,7 +2,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' text-align="center"/>Olá, eu sou um DEV unicornio 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp; Eu sou um UI/UX Designer e desenvolvedor FrontEnd React!.\
 💻 &nbsp;Atualmente estou procurando uma colocação como DEV, mas tambem tenho uma agência digital, onde forneço meus serviços para alguns clientes.\
