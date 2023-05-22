@@ -8,7 +8,7 @@
 💻 &nbsp;Atualmente estou procurando uma colocação como DEV, mas tambem tenho uma agência digital, onde forneço meus serviços para alguns clientes.\
 🎓&nbsp;Estou graduando em Ciências da Computação e tenho diversos cursos na área de tecnologia.\
 🌱 &nbsp;Estou aperfeiçondo bastante em React e busco também estudar o backend.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
+📄 &nbsp;Você pode ver meu curriculo aqui: [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
